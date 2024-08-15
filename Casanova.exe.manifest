@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Casanova.Lib.dll" size="54272">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Casanova.Lib.dll" size="53760">
       <assemblyIdentity name="Casanova.Lib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>zg4fcw0LMh9FLdq1iEMT5oQlN3HggISbQVvzdqpvsQw=</dsig:DigestValue>
+        <dsig:DigestValue>DFnW6a765OaiNB4K5jEHy8is7+1EXbsuOwSzm+vaIu4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
