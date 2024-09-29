@@ -43,6 +43,18 @@
     </dependentAssembly>
   </dependency>
   <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AsyncIO.dll" size="30720">
+      <assemblyIdentity name="AsyncIO" version="0.1.69.0" publicKeyToken="44A94435BD6F33F8" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>cSTlht2kCgCfzzHrPyJPbTeK8RFvynbOsxdw2TwMwMc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.ShockwaveFlashObjects.dll" size="17408">
       <assemblyIdentity name="AxInterop.ShockwaveFlashObjects" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -50,31 +62,31 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Zl2ajO8G0ygcHwGaivqUw8VC7ten8/9C1FRtTtcEvcM=</dsig:DigestValue>
+        <dsig:DigestValue>o7GzViNh09E7959jQunioveD1qXcGsXlxb6RE/EjMtU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Casanova.exe" size="390112">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Casanova.exe" size="389632">
       <assemblyIdentity name="Casanova" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6L23eFwr1h04LD1GcgjUI2wNCvzimcfKdDq9vA3qJWQ=</dsig:DigestValue>
+        <dsig:DigestValue>AtakbJSYUBkTXmPZre/BYEOeJqDWu5fGTZlMaID1VS4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Casanova.Lib.dll" size="53760">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Casanova.Lib.dll" size="60928">
       <assemblyIdentity name="Casanova.Lib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ILLGo/AvqpKEB6M2cYZFLa+dIACHyySXxnkYyF/l/Ag=</dsig:DigestValue>
+        <dsig:DigestValue>zuorm3nKmk6/L+Hfa0kIRvOmcx83agkK1cSGiOyYhIM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -86,7 +98,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pfCfcn7YYTg5MOiMibn40aVQ81MCBzDWEq0I3swpy2U=</dsig:DigestValue>
+        <dsig:DigestValue>6vaR2+HeoLF54RYMmdg0Go/FnvntwL0o2oCaAqgIavQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -135,6 +147,30 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
         <dsig:DigestValue>fKAYgd8jr75qGbYLN8G5LqDyymEkgij737TTBEXcZHQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NaCl.dll" size="30208">
+      <assemblyIdentity name="NaCl" version="0.1.13.0" publicKeyToken="827C20E50A9775FA" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>gw3s6XW4Jk5pA10hca7goNo/PQLvFtR9kLSPrPK2K/k=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NetMQ.dll" size="262656">
+      <assemblyIdentity name="NetMQ" version="4.0.1.13" publicKeyToken="A6DECEF4DDC58B3A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>h/mqGVRXmhNT1rkm4oghYvI7vBUsa2ORneVHhZRiy9g=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -294,13 +330,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Casanova.exe.config" size="881">
+  <file name="Casanova.exe.config" size="1206">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>kKOTm12I7n65T4WDwIiwaMZEqvD0xeCivZLWacp8KR0=</dsig:DigestValue>
+      <dsig:DigestValue>d8S8Fj3VVRFlIaJlGK8YriQxr/vsrskCMVJmgW9i25E=</dsig:DigestValue>
     </hash>
   </file>
   <file name="logo.ico" size="186684">
